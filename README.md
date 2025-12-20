@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋 I'm Youseef Bani Fadil
 
-<!--
-**ZEE582/ZEE582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/يوسف-undefined-7a37a1389" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:qwasdfghjkl174@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/kspmlk">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Computer Applications (CAP) student at **An-Najah National University**
+- 💻 Interested in **programming in general** and building real-world projects
+- 🌱 Currently improving my skills in **React** and learning **TypeScript**
+- ⚡ I believe consistency beats motivation (especially in coding 😄)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔥 Daily / Strong
+- HTML
+- CSS
+- JavaScript
+- Git
+- React
+
+### ✅ Comfortable With
+- SQL
+- REST APIs
+- C++
+- Python
+
+### 📚 Currently Learning
+- TypeScript
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZEE582&show_icons=true&theme=dark&hide=issues" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEE582&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **qwasdfghjkl174@gmail.com**
+- 💼 LinkedIn: [Youseef Bani Fadil](https://linkedin.com/in/يوسف-undefined-7a37a1389)
+- 🎮 Discord: **kspmlk**
+
+---
+
+> *"Code. Break it. Fix it. Learn. Repeat."*
