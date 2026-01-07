@@ -44,22 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZEE582&show_icons=true&theme=dark&hide=issues" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEE582&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 📫 Contact Me
 - 📧 Email: **qwasdfghjkl174@gmail.com**
 - 💼 LinkedIn: [Youseef Bani Fadil](https://linkedin.com/in/يوسف-undefined-7a37a1389)
 - 🎮 Discord: **kspmlk**
-
----
-
-> *"Code. Break it. Fix it. Learn. Repeat."*
